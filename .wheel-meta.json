@@ -1,0 +1,22 @@
+{
+  "wheel_id": 640,
+  "structure": "umbrella",
+  "slug": "brisbanegaragedoorrepair-107",
+  "project": "garage-door-repairs-brisbane-planning-guide-1012db08d9b73d3c0f7",
+  "parent_t1_ref": "brisbanegaragedoorrepair-153",
+  "node_role": "feeder",
+  "money_target": "brisbanegaragedoorrepair.au",
+  "primary_kw": "garage door repairs brisbane planning guide",
+  "intended_url": "http://garage-door-repairs-brisbane-planning-guide-1012db08d9b73d3c0f7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "5d725d0480afa793",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/brisbanegaragedoorrepair-153/",
+      "anchor": "the main guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
